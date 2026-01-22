@@ -65,7 +65,7 @@ I’m **Aditya Dalwadi** — a Software Developer with a strong focus on backend
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/Adi1827">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adi1827&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adi1827&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Adi1827">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi1827&layout=compact&langs_count=8&theme=onedark&hide_border=true"/>
