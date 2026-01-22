@@ -1,16 +1,100 @@
-## Hi there 👋
+# Hi there! 👋
+I’m **Aditya Dalwadi** — a Software Developer with a strong focus on backend engineering and scalable systems.<br>
+🔭 Currently working on production-grade backend services using **NestJS, TypeScript, and PostgreSQL**.<br>
+🌱 Continuously improving my understanding of **microservices, system design, and cloud-native development**.<br>
+💬 Open to collaborating on backend, full-stack, or system design–oriented projects.
 
-<!--
-**Adi1827/adi1827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-d-5a371a172/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skill Set:
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+### Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,sql,c,cpp&perline=3" />
+</div>
+
+</td>
+<td valign="top" width="25%">
+
+### Backend / Web
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql&perline=3" />
+</div>
+
+</td>
+<td valign="top" width="25%">
+
+### Databases & Caching
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=2" />
+</div>
+
+</td>
+<td valign="top" width="25%">
+
+### Cloud & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,gitlab,jenkins,postman&perline=3" />
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 Core Expertise
+- RESTful API & Microservices Architecture  
+- Authentication & Authorization (JWT, RBAC, OAuth2)  
+- Background Jobs, CRON Schedulers & Async Processing  
+- Database Optimization & Indexing (PostgreSQL)  
+- TCP-based Inter-service Communication  
+- CI/CD Pipelines & Production Stability  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/Adi1827">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adi1827&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"/>
+  </a>
+  <a href="https://github.com/Adi1827">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi1827&layout=compact&langs_count=8&theme=onedark&hide_border=false"/>
+  </a>
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <a href="https://github.com/Adi1827">
+    <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=Adi1827&bg_color=282c34&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+## 🔝 Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=Adi1827&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Adi1827&theme=darkhub&no-frame=true&row=1&column=6"/>
+  </a>
+</p>
+
+---
+
+⚡ *Building clean, secure, and scalable backend systems — one service at a time.*
